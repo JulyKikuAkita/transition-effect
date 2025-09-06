@@ -1,14 +1,14 @@
 //
-//  animationApp.swift
-//  animation
+//  walletApp.swift
+//  transition-effect
 //
-//  Created by IFang Lee on 2/22/24.
+//  Created on 2/22/24.
 //
 
 import SwiftUI
 
 @main
-struct animationApp: App {
+struct walletApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
