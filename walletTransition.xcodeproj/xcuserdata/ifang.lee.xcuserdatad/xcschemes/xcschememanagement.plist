@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>walletApp.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>9613D7112C7BE42A007FF2E7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>961F3B8A2B8818240055D79B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9621DBF72BEF396C00183CB7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9621DC242BEF3CF700183CB7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>963B86902CEABA5F00C3FB0D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>96E4DD6B2D0275B90020261F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>96E4DD7A2D0275BA0020261F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
