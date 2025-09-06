@@ -131,7 +131,7 @@
 		9603C9FC2B8ABB0500F91C21 /* MAnchorKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MAnchorKey.swift; sourceTree = "<group>"; };
 		960D205F2BB6A1F8002F1677 /* Todo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Todo.swift; sourceTree = "<group>"; };
 		960D20632BB6A36A002F1677 /* TodoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoView.swift; sourceTree = "<group>"; };
-		961F3B8B2B8818240055D79B /* wallet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = wallet.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		961F3B8B2B8818240055D79B /* widgets.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = widgets.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		961F3B8E2B8818240055D79B /* walletApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = walletApp.swift; sourceTree = "<group>"; };
 		961F3B902B8818240055D79B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		961F3B922B8818250055D79B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -276,7 +276,7 @@
 		961F3B8C2B8818240055D79B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				961F3B8B2B8818240055D79B /* wallet.app */,
+				961F3B8B2B8818240055D79B /* widgets.app */,
 				96F9A6832B9E6D7800FD6900 /* TaskWidgetExtension.appex */,
 				969A4A882BB7E9FC00DDC3CF /* TodoListExtension.appex */,
 				969A4AA22BBA7E0300DDC3CF /* GraphWidgetExtension.appex */,
@@ -430,9 +430,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		961F3B8A2B8818240055D79B /* wallet */ = {
+		961F3B8A2B8818240055D79B /* widgets */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 961F3B992B8818250055D79B /* Build configuration list for PBXNativeTarget "wallet" */;
+			buildConfigurationList = 961F3B992B8818250055D79B /* Build configuration list for PBXNativeTarget "widgets" */;
 			buildPhases = (
 				961F3B872B8818240055D79B /* Sources */,
 				961F3B882B8818240055D79B /* Frameworks */,
@@ -447,9 +447,9 @@
 				969A4AB02BBA7E0400DDC3CF /* PBXTargetDependency */,
 				962B04682C1E35A6008E1E5D /* PBXTargetDependency */,
 			);
-			name = wallet;
+			name = widgets;
 			productName = animation;
-			productReference = 961F3B8B2B8818240055D79B /* wallet.app */;
+			productReference = 961F3B8B2B8818240055D79B /* widgets.app */;
 			productType = "com.apple.product-type.application";
 		};
 		962B04592C1E35A6008E1E5D /* ControlWidgetDemoExtension */ = {
@@ -547,7 +547,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 961F3B862B8818240055D79B /* Build configuration list for PBXProject "transition-effect" */;
+			buildConfigurationList = 961F3B862B8818240055D79B /* Build configuration list for PBXProject "widgets" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -560,7 +560,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				961F3B8A2B8818240055D79B /* wallet */,
+				961F3B8A2B8818240055D79B /* widgets */,
 				96F9A6822B9E6D7800FD6900 /* TaskWidgetExtension */,
 				969A4A872BB7E9FC00DDC3CF /* TodoListExtension */,
 				969A4AA12BBA7E0300DDC3CF /* GraphWidgetExtension */,
@@ -1135,7 +1135,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		961F3B862B8818240055D79B /* Build configuration list for PBXProject "transition-effect" */ = {
+		961F3B862B8818240055D79B /* Build configuration list for PBXProject "widgets" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				961F3B972B8818250055D79B /* Debug */,
@@ -1144,7 +1144,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		961F3B992B8818250055D79B /* Build configuration list for PBXNativeTarget "wallet" */ = {
+		961F3B992B8818250055D79B /* Build configuration list for PBXNativeTarget "widgets" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				961F3B9A2B8818250055D79B /* Debug */,
